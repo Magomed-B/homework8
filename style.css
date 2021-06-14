@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body{
+    height: 100%;
+}
+.header{
+    background-color: #F7654A;
+    width: 1350px;
+    height: 181px;
+    text-align: center;
+}
+h1 {
+    font-size: 48px;
+    color: white;
+    font-family: Oswald;
+    width: 700;
+    text-align: left;
+    padding: 30px;
+}
+.brave{
+    font-size: 24px;
+    color: white;
+    width: 700;
+    text-align: left;
+    padding: 10px;
+    width: 700;
+}
+.group{
+    width: 380px;
+    height: 250px;
+    text-align: center;
+    font-size: 21px;
+    font-family: Oswald;
+    line-height: 31px;
+    padding-top: 60px;
+    background-color: #F7F7F7;margin-top: 30px;
+}
+.what{
+    text-align: center;
+    font-size: 36px;
+    font-style: normal;
+    color: #000000;
+}
+.main-header{
+    display: inline-block;
+    margin-left: 30px;
+}
+.main-headertwo{
+    display: inline-block;
+    margin-left: 30px;
+}
